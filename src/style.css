@@ -15,7 +15,7 @@
   --error: hsl(0, 85%, 60%);
   
   /* Typography & Sizing */
-  --font: 'Outfit', system-ui, -apple-system, sans-serif;
+  --font: 'Montserrat', system-ui, -apple-system, sans-serif;
   --radius: 12px;
   --radius-sm: 6px;
   --shadow: 0 4px 20px rgba(0, 0, 0, 0.04);
